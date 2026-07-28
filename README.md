@@ -56,8 +56,9 @@ Validated in the lab with Cisco ASAv firewalls, Cisco routers, and Arista vEOS s
 - Chattah Salsabila
 - Marmouze Norelhouda
 - Bouderbala Amira
-- Saidi Selma Ikram
-- Chouider Djoghlal Romaisa
+- Ikram Chouider
+- Saidi Selma
+- Djoghlal Romaisa
 - Reda Allouche
 
 **Supervisors:** Hammani Nacer, Amrouche Hakim
